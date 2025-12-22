@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alcohol Detection</string>
+
+    <!-- Main screen -->
+    <string name="start">Start</string>
+
+    <!-- Predict screen -->
+    <string name="cnn_model">CNN MODEL</string>
+    <string name="capture">Capture</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="confidence">Confidence:</string>
+
+    <!-- Messages -->
+    <string name="press_again_exit">Press Again To Exit</string>
+
+</resources>
