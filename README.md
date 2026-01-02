@@ -37,6 +37,7 @@ The system was trained and evaluated using the following models:
 
 The hybrid approach uses CNN for feature extraction and SVM for final classification to improve performance.
 
+
 ---
 
 ## 🗂 Dataset
@@ -70,5 +71,16 @@ The hybrid approach uses CNN for feature extraction and SVM for final classifica
 - Pandas
 
 ---
+---
+
+## 📌 Project Status
+
+---
+
+## Project Status
+
+- Successfully deployed and tested on Android Emulator and real Android device
+- Model retraining is currently in progress using an expanded dataset (20k+ images)
+
 
 
