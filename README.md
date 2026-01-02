@@ -1,4 +1,5 @@
 # 🍺 Detecting Alcohol Intoxication Using Image Processing
+> Coded by **Ares Coding**
 
 An Android-based application that detects **alcohol intoxication from facial images** using image processing and machine learning techniques.  
 This project analyzes facial cues to classify individuals as **Normal** or **Drunk**.
@@ -70,5 +71,4 @@ The hybrid approach uses CNN for feature extraction and SVM for final classifica
 
 ---
 
-## 🚀 Installation & Setup
 
