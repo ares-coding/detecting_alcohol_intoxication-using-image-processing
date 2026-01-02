@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/alcohol-intoxication-cover.png" alt="Detecting Alcohol Intoxication Using Image Processing" width="100%">
+  <img src="./alcohol-intoxication-cover.png" alt="Detecting Alcohol Intoxication Using Image Processing">
 </p>
+
 
 # 🍺 Detecting Alcohol Intoxication Using Image Processing
 > Coded by **Ares Coding**
