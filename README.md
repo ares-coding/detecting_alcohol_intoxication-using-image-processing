@@ -1,4 +1,5 @@
 > 🚧 This project is under active development. Model retraining and evaluation are ongoing.
+> This project is released under the MIT License for academic and research purposes.
 
 <p align="center">
   <img src="./alcohol-intoxication-cover.png" alt="Detecting Alcohol Intoxication Using Image Processing" width="85%">
